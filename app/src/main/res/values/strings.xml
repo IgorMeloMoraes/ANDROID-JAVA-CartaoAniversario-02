@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CartaoAniversario</string>
+    <string name="description_img_bg">Imagem de funndo na cor rosa com balões brancos e rosas, e confetes</string>
+    <string name="txt_msg_aniversario">É com grande alegria que celebramos o seu dia! Feliz aniversário!!</string>
+</resources>
